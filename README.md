@@ -1,27 +1,5 @@
 # Party Management System
 
-## Legal Notice
-This software is proprietary and protected by copyright law. All rights are reserved.
-
-### Copyright Notice
-© 2024 Party Management System. All rights reserved.
-
-### Terms of Use
-1. This repository is for viewing purposes only
-2. No part of this software may be:
-   - Copied
-   - Modified
-   - Distributed
-   - Used commercially
-   - Reverse engineered
-   - Decompiled
-   - Disassembled
-3. Unauthorized use is strictly prohibited
-4. Violators will be prosecuted to the maximum extent of the law
-
-### License Information
-This software is licensed, not sold. The use of this software is subject to the terms of the license agreement.
-
 ## About The Project
 Party Management System is a comprehensive web application built with Laravel that allows users to organize, manage, and book events and parties. The system provides an intuitive interface for both event organizers and attendees.
 
@@ -73,13 +51,8 @@ php artisan serve
 npm run dev
 ```
 
-## Security
-This repository is public for viewing purposes only. The code is protected and requires proper authorization for usage.
-
-## Legal Contact
-For licensing inquiries, please contact:
-- Email: [Your Email]
-- Website: [Your Website]
+## Note
+This repository is for viewing purposes only. The code is protected and requires proper authorization for usage.
 
 ## License
 All rights reserved. This project and its source code are proprietary.
